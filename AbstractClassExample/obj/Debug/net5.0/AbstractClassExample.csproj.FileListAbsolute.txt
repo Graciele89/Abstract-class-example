@@ -1,0 +1,16 @@
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.exe
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.deps.json
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.runtimeconfig.json
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.runtimeconfig.dev.json
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.dll
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\ref\AbstractClassExample.dll
+C:\Users\graci\source\repos\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.pdb
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.csproj.AssemblyReference.cache
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.AssemblyInfoInputs.cache
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.AssemblyInfo.cs
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.csproj.CoreCompileInputs.cache
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.dll
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\ref\AbstractClassExample.dll
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.pdb
+C:\Users\graci\source\repos\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.genruntimeconfig.cache
